@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/HenCoderPracticeDraw2.iml" filepath="$PROJECT_DIR$/HenCoderPracticeDraw2.iml" />
+      <module fileurl="file://E:\Demo\PracticeDraw2\HenCoderPracticeDraw2.iml" filepath="E:\Demo\PracticeDraw2\HenCoderPracticeDraw2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PracticeDraw2.iml" filepath="$PROJECT_DIR$/.idea/PracticeDraw2.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://E:\Demo\PracticeDraw2\app\app.iml" filepath="E:\Demo\PracticeDraw2\app\app.iml" />
     </modules>
   </component>
 </project>
